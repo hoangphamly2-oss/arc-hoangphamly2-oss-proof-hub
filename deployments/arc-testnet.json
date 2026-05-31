@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcHoangphamly2OssProofHub",
+  "address": "0x21b1c7ECDCC93831D167096Bd56C7d1e1EAd42d3",
+  "txHash": "0x2caebe716d4d813d7ffc0d35bde1f5b4c6e7d69dded8dc426f4bdbbb718c911c",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
